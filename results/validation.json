@@ -1,0 +1,25 @@
+{
+  "profile": "cotoan-v2-h300-t0-score-o31-f0",
+  "seed": 20260901,
+  "python": "3.12.13",
+  "open_spiel": "2.0.2",
+  "clingo": "5.8.2",
+  "unit_tests": 41,
+  "predicate_positions": 600,
+  "predicate_legal_actions": 59707,
+  "sampled_transitions": 300,
+  "rotation_positions": 600,
+  "gdl_positions": 70,
+  "gdl_transitions": 66,
+  "gdl_arithmetic_pairs": 90,
+  "committed_gdl_and_default_horizon_check": true,
+  "openspiel_random_simulations": 20,
+  "openspiel_test_horizon": 12,
+  "mcts_smoke_simulations": 8,
+  "perft": {
+    "1": 87,
+    "2": 7457
+  },
+  "status": "passed",
+  "scope": "conformance tests, not agent-strength experiments"
+}

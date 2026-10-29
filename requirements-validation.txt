@@ -1,0 +1,2 @@
+-r requirements.txt
+clingo==5.8.2

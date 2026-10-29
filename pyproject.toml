@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cotoan-research"
+version = "0.3.0"
+requires-python = ">=3.10"
+description = "Reference implementation and research environment for Vietnamese Mathematical Chess"
+dependencies = ["open_spiel==2.0.2"]
+
+[tool.setuptools.packages.find]
+include = ["cotoan*"]

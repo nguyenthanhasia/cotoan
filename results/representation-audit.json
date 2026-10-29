@@ -1,0 +1,571 @@
+{
+  "status": "passed",
+  "scope": "representation diagnostics, not playing strength",
+  "profile": "cotoan-v2-h300-t0-score-o31-f0",
+  "fixture_horizon": 12,
+  "nonterminal_fixture_positions": 66,
+  "positions_with_duplicate_witnesses": 6,
+  "endpoint_action_total": 6023,
+  "witness_action_total": 6031,
+  "duplicated_endpoint_action_total": 6,
+  "max_total_variation": 0.07051282051282051,
+  "figure_3d_probabilities": {
+    "endpoint_uniform": "1/43",
+    "witness_uniform": "1/22",
+    "endpoint_actions": 43,
+    "witness_actions": 44
+  },
+  "reachable_aliasing": {
+    "cycle": [
+      "a1-a2",
+      "i11-i10",
+      "a2-a1",
+      "i10-i11"
+    ],
+    "compared_plies": [
+      3,
+      299
+    ],
+    "same_board_and_turn": true,
+    "both_nonterminal": true,
+    "same_legal_actions": true,
+    "common_next_action": "i10-i11",
+    "successor_plies": [
+      4,
+      300
+    ],
+    "early_successor_terminal": false,
+    "late_successor_terminal": true,
+    "late_successor_result": "equal-score draw at ply limit"
+  },
+  "per_fixture": [
+    {
+      "case_id": 0,
+      "endpoint_actions": 87,
+      "witness_actions": 87,
+      "duplicated_endpoint_actions": 0,
+      "total_variation_exact": "0",
+      "total_variation": 0.0
+    },
+    {
+      "case_id": 1,
+      "endpoint_actions": 87,
+      "witness_actions": 87,
+      "duplicated_endpoint_actions": 0,
+      "total_variation_exact": "0",
+      "total_variation": 0.0
+    },
+    {
+      "case_id": 2,
+      "endpoint_actions": 88,
+      "witness_actions": 88,
+      "duplicated_endpoint_actions": 0,
+      "total_variation_exact": "0",
+      "total_variation": 0.0
+    },
+    {
+      "case_id": 3,
+      "endpoint_actions": 95,
+      "witness_actions": 95,
+      "duplicated_endpoint_actions": 0,
+      "total_variation_exact": "0",
+      "total_variation": 0.0
+    },
+    {
+      "case_id": 4,
+      "endpoint_actions": 74,
+      "witness_actions": 74,
+      "duplicated_endpoint_actions": 0,
+      "total_variation_exact": "0",
+      "total_variation": 0.0
+    },
+    {
+      "case_id": 5,
+      "endpoint_actions": 98,
+      "witness_actions": 98,
+      "duplicated_endpoint_actions": 0,
+      "total_variation_exact": "0",
+      "total_variation": 0.0
+    },
+    {
+      "case_id": 6,
+      "endpoint_actions": 84,
+      "witness_actions": 84,
+      "duplicated_endpoint_actions": 0,
+      "total_variation_exact": "0",
+      "total_variation": 0.0
+    },
+    {
+      "case_id": 7,
+      "endpoint_actions": 99,
+      "witness_actions": 99,
+      "duplicated_endpoint_actions": 0,
+      "total_variation_exact": "0",
+      "total_variation": 0.0
+    },
+    {
+      "case_id": 8,
+      "endpoint_actions": 103,
+      "witness_actions": 103,
+      "duplicated_endpoint_actions": 0,
+      "total_variation_exact": "0",
+      "total_variation": 0.0
+    },
+    {
+      "case_id": 9,
+      "endpoint_actions": 116,
+      "witness_actions": 116,
+      "duplicated_endpoint_actions": 0,
+      "total_variation_exact": "0",
+      "total_variation": 0.0
+    },
+    {
+      "case_id": 10,
+      "endpoint_actions": 119,
+      "witness_actions": 119,
+      "duplicated_endpoint_actions": 0,
+      "total_variation_exact": "0",
+      "total_variation": 0.0
+    },
+    {
+      "case_id": 11,
+      "endpoint_actions": 127,
+      "witness_actions": 127,
+      "duplicated_endpoint_actions": 0,
+      "total_variation_exact": "0",
+      "total_variation": 0.0
+    },
+    {
+      "case_id": 12,
+      "endpoint_actions": 87,
+      "witness_actions": 87,
+      "duplicated_endpoint_actions": 0,
+      "total_variation_exact": "0",
+      "total_variation": 0.0
+    },
+    {
+      "case_id": 13,
+      "endpoint_actions": 87,
+      "witness_actions": 87,
+      "duplicated_endpoint_actions": 0,
+      "total_variation_exact": "0",
+      "total_variation": 0.0
+    },
+    {
+      "case_id": 14,
+      "endpoint_actions": 90,
+      "witness_actions": 90,
+      "duplicated_endpoint_actions": 0,
+      "total_variation_exact": "0",
+      "total_variation": 0.0
+    },
+    {
+      "case_id": 15,
+      "endpoint_actions": 96,
+      "witness_actions": 96,
+      "duplicated_endpoint_actions": 0,
+      "total_variation_exact": "0",
+      "total_variation": 0.0
+    },
+    {
+      "case_id": 16,
+      "endpoint_actions": 105,
+      "witness_actions": 105,
+      "duplicated_endpoint_actions": 0,
+      "total_variation_exact": "0",
+      "total_variation": 0.0
+    },
+    {
+      "case_id": 17,
+      "endpoint_actions": 103,
+      "witness_actions": 103,
+      "duplicated_endpoint_actions": 0,
+      "total_variation_exact": "0",
+      "total_variation": 0.0
+    },
+    {
+      "case_id": 18,
+      "endpoint_actions": 98,
+      "witness_actions": 98,
+      "duplicated_endpoint_actions": 0,
+      "total_variation_exact": "0",
+      "total_variation": 0.0
+    },
+    {
+      "case_id": 19,
+      "endpoint_actions": 108,
+      "witness_actions": 108,
+      "duplicated_endpoint_actions": 0,
+      "total_variation_exact": "0",
+      "total_variation": 0.0
+    },
+    {
+      "case_id": 20,
+      "endpoint_actions": 103,
+      "witness_actions": 103,
+      "duplicated_endpoint_actions": 0,
+      "total_variation_exact": "0",
+      "total_variation": 0.0
+    },
+    {
+      "case_id": 21,
+      "endpoint_actions": 124,
+      "witness_actions": 124,
+      "duplicated_endpoint_actions": 0,
+      "total_variation_exact": "0",
+      "total_variation": 0.0
+    },
+    {
+      "case_id": 22,
+      "endpoint_actions": 105,
+      "witness_actions": 105,
+      "duplicated_endpoint_actions": 0,
+      "total_variation_exact": "0",
+      "total_variation": 0.0
+    },
+    {
+      "case_id": 23,
+      "endpoint_actions": 119,
+      "witness_actions": 119,
+      "duplicated_endpoint_actions": 0,
+      "total_variation_exact": "0",
+      "total_variation": 0.0
+    },
+    {
+      "case_id": 24,
+      "endpoint_actions": 125,
+      "witness_actions": 125,
+      "duplicated_endpoint_actions": 0,
+      "total_variation_exact": "0",
+      "total_variation": 0.0
+    },
+    {
+      "case_id": 25,
+      "endpoint_actions": 66,
+      "witness_actions": 66,
+      "duplicated_endpoint_actions": 0,
+      "total_variation_exact": "0",
+      "total_variation": 0.0
+    },
+    {
+      "case_id": 26,
+      "endpoint_actions": 97,
+      "witness_actions": 97,
+      "duplicated_endpoint_actions": 0,
+      "total_variation_exact": "0",
+      "total_variation": 0.0
+    },
+    {
+      "case_id": 27,
+      "endpoint_actions": 119,
+      "witness_actions": 119,
+      "duplicated_endpoint_actions": 0,
+      "total_variation_exact": "0",
+      "total_variation": 0.0
+    },
+    {
+      "case_id": 28,
+      "endpoint_actions": 117,
+      "witness_actions": 117,
+      "duplicated_endpoint_actions": 0,
+      "total_variation_exact": "0",
+      "total_variation": 0.0
+    },
+    {
+      "case_id": 29,
+      "endpoint_actions": 113,
+      "witness_actions": 115,
+      "duplicated_endpoint_actions": 1,
+      "total_variation_exact": "224/12995",
+      "total_variation": 0.017237398999615235
+    },
+    {
+      "case_id": 30,
+      "endpoint_actions": 83,
+      "witness_actions": 83,
+      "duplicated_endpoint_actions": 0,
+      "total_variation_exact": "0",
+      "total_variation": 0.0
+    },
+    {
+      "case_id": 31,
+      "endpoint_actions": 78,
+      "witness_actions": 78,
+      "duplicated_endpoint_actions": 0,
+      "total_variation_exact": "0",
+      "total_variation": 0.0
+    },
+    {
+      "case_id": 32,
+      "endpoint_actions": 99,
+      "witness_actions": 99,
+      "duplicated_endpoint_actions": 0,
+      "total_variation_exact": "0",
+      "total_variation": 0.0
+    },
+    {
+      "case_id": 33,
+      "endpoint_actions": 127,
+      "witness_actions": 127,
+      "duplicated_endpoint_actions": 0,
+      "total_variation_exact": "0",
+      "total_variation": 0.0
+    },
+    {
+      "case_id": 34,
+      "endpoint_actions": 65,
+      "witness_actions": 65,
+      "duplicated_endpoint_actions": 0,
+      "total_variation_exact": "0",
+      "total_variation": 0.0
+    },
+    {
+      "case_id": 35,
+      "endpoint_actions": 100,
+      "witness_actions": 101,
+      "duplicated_endpoint_actions": 1,
+      "total_variation_exact": "99/10100",
+      "total_variation": 0.009801980198019802
+    },
+    {
+      "case_id": 36,
+      "endpoint_actions": 61,
+      "witness_actions": 61,
+      "duplicated_endpoint_actions": 0,
+      "total_variation_exact": "0",
+      "total_variation": 0.0
+    },
+    {
+      "case_id": 37,
+      "endpoint_actions": 92,
+      "witness_actions": 92,
+      "duplicated_endpoint_actions": 0,
+      "total_variation_exact": "0",
+      "total_variation": 0.0
+    },
+    {
+      "case_id": 38,
+      "endpoint_actions": 95,
+      "witness_actions": 95,
+      "duplicated_endpoint_actions": 0,
+      "total_variation_exact": "0",
+      "total_variation": 0.0
+    },
+    {
+      "case_id": 39,
+      "endpoint_actions": 98,
+      "witness_actions": 98,
+      "duplicated_endpoint_actions": 0,
+      "total_variation_exact": "0",
+      "total_variation": 0.0
+    },
+    {
+      "case_id": 40,
+      "endpoint_actions": 92,
+      "witness_actions": 93,
+      "duplicated_endpoint_actions": 1,
+      "total_variation_exact": "91/8556",
+      "total_variation": 0.010635811126694717
+    },
+    {
+      "case_id": 41,
+      "endpoint_actions": 94,
+      "witness_actions": 94,
+      "duplicated_endpoint_actions": 0,
+      "total_variation_exact": "0",
+      "total_variation": 0.0
+    },
+    {
+      "case_id": 42,
+      "endpoint_actions": 84,
+      "witness_actions": 84,
+      "duplicated_endpoint_actions": 0,
+      "total_variation_exact": "0",
+      "total_variation": 0.0
+    },
+    {
+      "case_id": 43,
+      "endpoint_actions": 95,
+      "witness_actions": 95,
+      "duplicated_endpoint_actions": 0,
+      "total_variation_exact": "0",
+      "total_variation": 0.0
+    },
+    {
+      "case_id": 44,
+      "endpoint_actions": 77,
+      "witness_actions": 77,
+      "duplicated_endpoint_actions": 0,
+      "total_variation_exact": "0",
+      "total_variation": 0.0
+    },
+    {
+      "case_id": 45,
+      "endpoint_actions": 37,
+      "witness_actions": 37,
+      "duplicated_endpoint_actions": 0,
+      "total_variation_exact": "0",
+      "total_variation": 0.0
+    },
+    {
+      "case_id": 46,
+      "endpoint_actions": 135,
+      "witness_actions": 135,
+      "duplicated_endpoint_actions": 0,
+      "total_variation_exact": "0",
+      "total_variation": 0.0
+    },
+    {
+      "case_id": 47,
+      "endpoint_actions": 123,
+      "witness_actions": 123,
+      "duplicated_endpoint_actions": 0,
+      "total_variation_exact": "0",
+      "total_variation": 0.0
+    },
+    {
+      "case_id": 48,
+      "endpoint_actions": 62,
+      "witness_actions": 62,
+      "duplicated_endpoint_actions": 0,
+      "total_variation_exact": "0",
+      "total_variation": 0.0
+    },
+    {
+      "case_id": 49,
+      "endpoint_actions": 103,
+      "witness_actions": 103,
+      "duplicated_endpoint_actions": 0,
+      "total_variation_exact": "0",
+      "total_variation": 0.0
+    },
+    {
+      "case_id": 50,
+      "endpoint_actions": 47,
+      "witness_actions": 47,
+      "duplicated_endpoint_actions": 0,
+      "total_variation_exact": "0",
+      "total_variation": 0.0
+    },
+    {
+      "case_id": 51,
+      "endpoint_actions": 80,
+      "witness_actions": 80,
+      "duplicated_endpoint_actions": 0,
+      "total_variation_exact": "0",
+      "total_variation": 0.0
+    },
+    {
+      "case_id": 52,
+      "endpoint_actions": 97,
+      "witness_actions": 97,
+      "duplicated_endpoint_actions": 0,
+      "total_variation_exact": "0",
+      "total_variation": 0.0
+    },
+    {
+      "case_id": 53,
+      "endpoint_actions": 80,
+      "witness_actions": 80,
+      "duplicated_endpoint_actions": 0,
+      "total_variation_exact": "0",
+      "total_variation": 0.0
+    },
+    {
+      "case_id": 54,
+      "endpoint_actions": 55,
+      "witness_actions": 55,
+      "duplicated_endpoint_actions": 0,
+      "total_variation_exact": "0",
+      "total_variation": 0.0
+    },
+    {
+      "case_id": 55,
+      "endpoint_actions": 74,
+      "witness_actions": 74,
+      "duplicated_endpoint_actions": 0,
+      "total_variation_exact": "0",
+      "total_variation": 0.0
+    },
+    {
+      "case_id": 56,
+      "endpoint_actions": 77,
+      "witness_actions": 77,
+      "duplicated_endpoint_actions": 0,
+      "total_variation_exact": "0",
+      "total_variation": 0.0
+    },
+    {
+      "case_id": 57,
+      "endpoint_actions": 80,
+      "witness_actions": 80,
+      "duplicated_endpoint_actions": 0,
+      "total_variation_exact": "0",
+      "total_variation": 0.0
+    },
+    {
+      "case_id": 58,
+      "endpoint_actions": 45,
+      "witness_actions": 45,
+      "duplicated_endpoint_actions": 0,
+      "total_variation_exact": "0",
+      "total_variation": 0.0
+    },
+    {
+      "case_id": 59,
+      "endpoint_actions": 122,
+      "witness_actions": 124,
+      "duplicated_endpoint_actions": 1,
+      "total_variation_exact": "121/7564",
+      "total_variation": 0.015996827075621365
+    },
+    {
+      "case_id": 60,
+      "endpoint_actions": 111,
+      "witness_actions": 111,
+      "duplicated_endpoint_actions": 0,
+      "total_variation_exact": "0",
+      "total_variation": 0.0
+    },
+    {
+      "case_id": 61,
+      "endpoint_actions": 121,
+      "witness_actions": 121,
+      "duplicated_endpoint_actions": 0,
+      "total_variation_exact": "0",
+      "total_variation": 0.0
+    },
+    {
+      "case_id": 62,
+      "endpoint_actions": 77,
+      "witness_actions": 77,
+      "duplicated_endpoint_actions": 0,
+      "total_variation_exact": "0",
+      "total_variation": 0.0
+    },
+    {
+      "case_id": 63,
+      "endpoint_actions": 84,
+      "witness_actions": 84,
+      "duplicated_endpoint_actions": 0,
+      "total_variation_exact": "0",
+      "total_variation": 0.0
+    },
+    {
+      "case_id": 68,
+      "endpoint_actions": 22,
+      "witness_actions": 23,
+      "duplicated_endpoint_actions": 1,
+      "total_variation_exact": "21/506",
+      "total_variation": 0.041501976284584984
+    },
+    {
+      "case_id": 69,
+      "endpoint_actions": 12,
+      "witness_actions": 13,
+      "duplicated_endpoint_actions": 1,
+      "total_variation_exact": "11/156",
+      "total_variation": 0.07051282051282051
+    }
+  ]
+}

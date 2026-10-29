@@ -1,0 +1,22 @@
+{
+  "status": "passed",
+  "algorithm": "OpenSpiel alpha_beta_search",
+  "open_spiel": "2.0.2",
+  "depth": 2,
+  "horizon": 12,
+  "config": {
+    "max_plies": 12,
+    "score_target": 0,
+    "horizon_rule": "score",
+    "ops_mask": 31,
+    "first_player": 0
+  },
+  "profile": "cotoan-v2-h12-t0-score-o31-f0",
+  "evaluation": "Red-perspective signed material divided by 45",
+  "value": 0.0,
+  "action_id": 9,
+  "action": "(move a1 a2)",
+  "legal": true,
+  "root_unchanged": true,
+  "scope": "interface diagnostic; not an existing-agent port or strength experiment"
+}

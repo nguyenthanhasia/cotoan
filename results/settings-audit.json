@@ -1,0 +1,27 @@
+{
+  "status": "passed",
+  "seed": 20260902,
+  "configurations": 9,
+  "state_comparisons": 210,
+  "selected_successor_comparisons": 158,
+  "rejected_dual_threshold_snapshots": 6,
+  "operation_masks": 32,
+  "gdl_material_subsets": 512,
+  "openspiel_random_simulations": 45,
+  "observation_size": 2183,
+  "config_aliasing": {
+    "same_board_turn_ply": true,
+    "red_score": 9,
+    "blue_score": 0,
+    "score_horizon_returns": [
+      1,
+      -1
+    ],
+    "draw_horizon_returns": [
+      0,
+      0
+    ],
+    "different_observations": true
+  },
+  "scope": "Cross-configuration conformance diagnostics, not playing strength"
+}
